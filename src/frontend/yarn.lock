@@ -8013,32 +8013,7 @@ inline-source-map@~0.6.0:
   dependencies:
     source-map "~0.5.3"
 
-inquirer2@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/inquirer2/-/inquirer2-0.1.1.tgz#bc5424a814357c41e65e2e957fe536aeea9bf1f6"
-  integrity sha512-U7R6xvJmmcAx8Bq3Ok7+9L5kyBiUbCokZJMSibn+lDQasL9RtW9kYmnO5fezF0EcqE+pt4Hp3gc5XBGCqLkRDg==
-  dependencies:
-    ansi-escapes "^1.1.1"
-    ansi-regex "^2.0.0"
-    arr-flatten "^1.0.1"
-    arr-pluck "^0.1.0"
-    array-unique "^0.2.1"
-    chalk "^1.1.1"
-    cli-cursor "^1.0.2"
-    cli-width "^1.1.0"
-    extend-shallow "^2.0.1"
-    figures "^1.4.0"
-    is-number "^2.1.0"
-    is-plain-object "^2.0.1"
-    lazy-cache "^1.0.3"
-    lodash.where "^3.1.0"
-    readline2 "^1.0.1"
-    run-async "^0.1.0"
-    rx-lite "^4.0.7"
-    strip-color "^0.1.0"
-    through2 "^2.0.0"
-
-"inquirer2@github:jonschlinkert/inquirer2":
+inquirer2@^0.1.1, "inquirer2@github:jonschlinkert/inquirer2":
   version "0.1.1"
   resolved "https://codeload.github.com/jonschlinkert/inquirer2/tar.gz/9b4985f5bf7c8590bb79e039de1acab5719ae3fc"
   dependencies:
@@ -15070,9 +15045,9 @@ typescript@~3.7.5:
   integrity sha512-MmQdgo/XenfZPvVLtKZOq9jQQvzaUAUpcKW8Z43x9B2fOm4S5g//tPtMweZUIP+SoBqrVPEIm+dJeQ9dfO0QdA==
 
 ua-parser-js@^0.7.30:
-  version "0.7.32"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.32.tgz#cd8c639cdca949e30fa68c44b7813ef13e36d211"
-  integrity sha512-f9BESNVhzlhEFf2CHMSj40NWOjYPl1YKYbrvIr/hFTDEmLq7SRbWvm7FcdcpCYT95zrOhC7gZSxjdnnTpBcwVw==
+  version "0.7.33"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.33.tgz#1d04acb4ccef9293df6f70f2c3d22f3030d8b532"
+  integrity sha512-s8ax/CeZdK9R/56Sui0WM6y9OFREJarMRHqLB2EwkovemBxNQ+Bqu8GAsUnVcXKgphb++ghr/B2BZx4mahujPw==
 
 uglify-js@^3.1.4:
   version "3.17.4"
